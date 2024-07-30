@@ -195,6 +195,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/NishantA9/NishantA9/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/NishantA9/NishantA9/blob/output/github-contribution-grid-snake.svg)
 
 ###
