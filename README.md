@@ -192,6 +192,6 @@
 </div>
 
 ###
+<img src="https://github.com/NishantA9/NishantAcharekar/blob/output/snake.svg" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/NishantA9/output/snake.svg" alt="Snake animation" />
 ###
