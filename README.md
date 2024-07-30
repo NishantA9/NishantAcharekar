@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">A passionate Software Developer from India, Currently pursuing my Masters at UNC Charlotte.</h3>
+<h3 align="left">A passionate Software Developer from India, Currently pursuing my Masters in Information Technology at UNC Charlotte.</h3>
 
 ###
 
