@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on my portfolio.<br><br>👨‍💻 All of my projects are available at<br><br>🌱 I’m currently learning DSA, Advanced Python Concepts. and more React.<br><br>🏢 I'm currently looking for Full Time Roles.<br><br>📫 How to reach me- nishantacharekar12@gmail.com<br><br>📄 Know about my experiences at <br><br>📹 I am a Streamer and have a YouTube Channel named FireEmperor with 2.08K Subscribers and 310,651 views</p>
+<p align="left">🔭 Built my <a href="https://nishantacharekarportfolio.netlify.app/">Portfolio </a>in React.<br><br>👨‍💻 All of my projects are available <a href="https://github.com/NishantA9?tab=repositories">here</a><br><br>🌱 I’m currently learning DSA, Advanced Python Concepts. and more React.<br><br>🏢 I'm currently looking for Co-Op and Full Time Roles.<br><br>📫 How to reach me- nishantacharekar12@gmail.com<br><br>📄 Know about my experiences <a href="https://drive.google.com/file/d/15UCIIX_eqUBJyR7CZOEj2XkBQrWQMrWS/view?usp=drive_link">here.</a> <br><br>📹 I am a Streamer and have a YouTube Channel named <a href="https://www.youtube.com/@FireEmperor">FireEmperor</a> with 2.08K Subscribers and 310,651 views</p>
 
 ###
 
